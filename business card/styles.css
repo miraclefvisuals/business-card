@@ -16,7 +16,7 @@ h3:hover, p:hover, h4:hover {
 
 .card {
     width: 400px;
-    margin: auto;
+    margin: 0 auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
